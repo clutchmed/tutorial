@@ -1,1 +1,1 @@
-# tutorial
+# This is a tutorial for using git on Ubuntu
