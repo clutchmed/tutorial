@@ -8,3 +8,6 @@ def main(msg):
 
 
 main('Hello people')
+a=2+2
+b=a+9
+print(b)
