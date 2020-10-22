@@ -2,7 +2,7 @@ print('Hello World')
 def main(msg):
     # No longer  need comments
     # FartButt
-// Butt Fart
+    # Butt Fart
 
     print(msg)
 
